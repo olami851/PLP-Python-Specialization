@@ -1,0 +1,2 @@
+This is a program on how to work with file handling in Python.
+Programming requires the use of about 80% of our thinking and the rest for others.
